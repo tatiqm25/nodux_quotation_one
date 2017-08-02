@@ -14,10 +14,10 @@ def get_data():
 
 		{
 			"module_name": "Quotation",
-			"_doctype": "Nodux Quotation One",
+			"_doctype": "Sales Quotation One",
 			"color": "#f39c12",
 			"icon": "octicon octicon-package",
 			"type": "link",
-			"link": "List/Nodux Quotation One"
+			"link": "List/Sales Quotation One"
 		}
 	]
